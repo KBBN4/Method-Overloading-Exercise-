@@ -1,0 +1,15 @@
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.AssemblyReference.cache
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfoInputs.cache
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfo.cs
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.CoreCompileInputs.cache
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.deps.json
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.runtimeconfig.json
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.dll
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.pdb
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.dll
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/refint/MethodOverloading.dll
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.pdb
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.genruntimeconfig.cache
+/Users/mrs.buendia/Desktop/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/ref/MethodOverloading.dll
