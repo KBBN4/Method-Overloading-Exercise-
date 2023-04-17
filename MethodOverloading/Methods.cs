@@ -3,16 +3,16 @@ namespace MethodOverloading
 {
     public class Methods
     {
-        public static void Add(int num1, int num2)
+        public static int Add(int num1, int num2)
 
         {
-            Console.WriteLine(num1 + num2);
+            return num1 + num2;
         }
 
 
-        public static decimal Add(decimal x, decimal y)
+        public static decimal Add(decimal num1 , decimal num2)
         {
-            return (x + y);
+            return (num1+num2);
         }
 
         public static string Add(int num1, int num2, bool dollars)
